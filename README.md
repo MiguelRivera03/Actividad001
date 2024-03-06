@@ -8,5 +8,5 @@ Esta es una practica para la asignatura 3w UV.
 
 1. [Arango] (#Tiene la cuenta en LAS)
 2. [Todos los demas] (#Tienen la cuenta en LAN)
-3. [Se fue la energia] (#Que gonorrea)
+3. [Se fue la energia] (#Se exploto la upc)
 
